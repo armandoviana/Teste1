@@ -1,6 +1,6 @@
 # Backend de Gerenciamento de Observatórios Astronômicos
 
-## Sobre o Projeto
+## Sobre o Projet
 
 Este é um backend GraphQL construído com NestJS para gerenciar observatórios astronômicos, telescópios e observações. O projeto foi intencionalmente desenvolvido com diversas vulnerabilidades de segurança como parte de um desafio técnico.
 
